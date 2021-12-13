@@ -5,4 +5,4 @@ Quarto projeto do módulo de Fundamentos do Desenvolvimento Web do curso de Dese
 - Manipular elementos do DOM com JavaScript;
 - Manipular elementos com CSS.
 
-[exemplo](./exemplo.png)
+![exemplo](./exemplo.png)
